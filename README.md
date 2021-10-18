@@ -20,7 +20,7 @@ npm run start
 
 3. Open [http://localhost:8000/results](http://localhost:8000/results) with your browser to see the results of the scrape in your terminal.
 
-4 .Finally, open the index.html file in your browser to see the results showing up.
+4. Finally, open the index.html file in your browser to see the results showing up.
 
 ## MIT Licence
 
