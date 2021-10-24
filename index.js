@@ -9,7 +9,7 @@ app.use(cors())
 const url = 'https://www.theguardian.com/uk'
 
 app.get('/', function (req, res) {
-    res.json('This is my webscraper')
+    res.json('This is my webscraper, too!! and whatsss')
 })
 
 app.get('/results', (req, res) => {
